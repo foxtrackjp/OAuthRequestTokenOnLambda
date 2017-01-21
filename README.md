@@ -8,3 +8,6 @@ TwitterのOAuth認証のリクエストトークンを埋め込んだURLを発�
 const consumer_key = YOUR_APP_CONSUMER_KEY;
 const consumer_secret = YOUR_APP_CONSUMER_SECRET;
 ```
+# 結果
+
+Twitter認証のリクエストトークンを埋め込んだURLが帰ってきます。
